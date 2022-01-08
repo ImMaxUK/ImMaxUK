@@ -2,9 +2,9 @@
 
 ### I am a NodeJS Developer, and Aspiring System Admin!
 
-* 🔭 I am currently working on TropicMC!
-* ✨ I am currently learning NodeJS + System Administration!
+* 🔭 I am currently working on Sparox!
+* ✨ I am currently learning NodeJS + Linux!
 * 💬 As me about anything! I love to chat.
-* 📬 You can reach me on Discord! 𝖬𝖺𝗑#6321 (Copy & Paste due to special characters)
+* 📬 You can reach me on Discord! MΛX#1464
 * 😃 Pronouns: He/Him
 * ⚡ **FUN FACT: The first oranges weren’t orange.. 😲🤯** 
