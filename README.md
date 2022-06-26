@@ -4,7 +4,7 @@ Hi 👋 My name is Max
 NodeJS Developer & System Administrator
 ---------------------------------------
 
-I'm a software engineer who is passionate about creating technology and has found a passion for JavaScript development.
+I'm a software engineer who is passionate about creating technology and enjoys JavaScript development.
 
 * 🌍  I'm based in England
 * 🖥️  See my portfolio at [maxuk.me](http://maxuk.me)
